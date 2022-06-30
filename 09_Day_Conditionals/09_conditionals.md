@@ -223,13 +223,12 @@ Enter number two: 3
 4 is greater than 3
 ```
 
-    ### Exercises: Level 2
+### Exercises: Level 2
 
    1. Write a code which gives grade to students according to theirs scores:
    
         ```sh
         80-100, A
-        70-89, B
         60-69, C
         50-59, D
         0-49, F
@@ -245,7 +244,7 @@ Enter number two: 3
     ```
     If a fruit doesn't exist in the list add the fruit to the list and print the modified list. If the fruit exists print('That fruit already exist in the list') 
 
-    ### Exercises: Level 3
+### Exercises: Level 3
 
    1. Here we have a person dictionary. Feel free to modify it!
    
